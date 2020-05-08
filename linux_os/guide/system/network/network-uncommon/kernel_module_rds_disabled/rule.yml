@@ -22,6 +22,7 @@ identifiers:
 references:
     disa@rhel6: "382"
     cis@rhel8: 3.3.3
+    cis@ubuntu1804: 3.5.3
     nist: CM-7(a),CM-7(b),CM-6(a)
     nist-csf: PR.IP-1,PR.PT-3
     srg@rhel6: SRG-OS-000096

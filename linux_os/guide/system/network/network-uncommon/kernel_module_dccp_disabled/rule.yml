@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: fedora,ol7,ol8,rhel6,rhel7,rhel8,rhv4,sle15,wrlinux1019
+prodtype: fedora,ol7,ol8,rhel6,rhel7,rhel8,rhv4,sle15,wrlinux1019,ubuntu1804
 
 title: 'Disable DCCP Support'
 
@@ -28,6 +28,7 @@ references:
     srg@rhel6: SRG-OS-000096
     disa@rhel6: '382'
     cis@rhel8: 3.3.1
+    cis@ubuntu1804: 3.5.1
     cjis: 5.10.1
     cui: 3.4.6
     disa: "1958"

@@ -455,10 +455,10 @@ selections:
     ## 3.5 Uncommon Network Protocols
 
     ### 3.5.1 Ensure DCCP is disabled (Not Scored)
-    # NEEDS RULE - kernel_module_dccp_disabled
+    - kernel_module_dccp_disabled
 
     ### 3.5.2 Ensure SCTP is disabled (Not Scored)
-    # NEEDS RULE - kernel_module_sctp_disabled
+    - kernel_module_sctp_disabled
 
     ### 3.5.3 Ensure RDS is disabled (Not Scored)
     - kernel_module_rds_disabled
